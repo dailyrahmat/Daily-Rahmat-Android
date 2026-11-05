@@ -12,8 +12,7 @@
 
 [⬇️ Unduh APK](https://github.com/dailyrahmat/Daily-Rahmat-Android/releases/download/v1.0.0/DailyRahmat-v1.0.0-1793536127.apk) ·
 [📦 Semua Rilis](https://github.com/dailyrahmat/Daily-Rahmat-Android/releases) ·
-[🔒 Kebijakan Privasi](https://dailyrahmat.ftn.host/privacy) ·
-[🐞 Lapor Masalah](https://github.com/dailyrahmat/Daily-Rahmat-Android/issues)
+[🔒 Kebijakan Privasi](https://dailyrahmat.ftn.host/privacy)
 
 </div>
 
