@@ -107,7 +107,7 @@ Daily Rahmat adalah aplikasi **hibrida**: cangkang Android native yang menampilk
 
 | Bagian | Teknologi |
 |---|---|
-| Platform | Android (min SDK 24, target SDK 34) |
+| Platform | Android (min SDK 24) |
 | Antarmuka | Web app lokal di WebView (`assets/www`) |
 | Data Al-Qur'an | Berkas JS per surah, dibundel offline |
 | Waktu sholat | Kalkulator dan API |
