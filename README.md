@@ -5,7 +5,7 @@
 **Al-Qur'an digital, jadwal sholat, adzan, dan arah kiblat dalam satu aplikasi Android.**
 
 [![Release](https://img.shields.io/github/v/release/dailyrahmat/Daily-Rahmat-Android?style=for-the-badge&color=0f766e&label=release)](https://github.com/dailyrahmat/Daily-Rahmat-Android/releases/latest)
-[![Build](https://img.shields.io/badge/BUILD-1793852627-blue)](...)
+[![Build](https://img.shields.io/badge/BUILD-1793852627-0f766e?style=for-the-badge)](https://github.com/dailyrahmat/Daily-Rahmat-Android/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/dailyrahmat/Daily-Rahmat-Android/total?style=for-the-badge&color=0f766e)](https://github.com/dailyrahmat/Daily-Rahmat-Android/releases)
 ![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Bahasa](https://img.shields.io/badge/bahasa-Indonesia-red?style=for-the-badge)
