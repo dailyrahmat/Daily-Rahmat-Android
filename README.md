@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌙 Daily Rahmat
+# Daily Rahmat
 
 **Al-Qur'an digital, jadwal sholat, adzan, dan arah kiblat dalam satu aplikasi Android.**
 
