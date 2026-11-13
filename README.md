@@ -11,7 +11,6 @@
 [![Google Play](https://img.shields.io/badge/Google%20Play-Download-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=daily.rahmat.app)
 ![Bahasa](https://img.shields.io/badge/bahasa-Indonesia-red?style=for-the-badge)
 
-[⬇️ Unduh APK](https://github.com/dailyrahmat/Daily-Rahmat-Android/releases/download/v1.0.0/DailyRahmat-v1.0.0-1793536127.apk) ·
 [📦 Semua Rilis](https://github.com/dailyrahmat/Daily-Rahmat-Android/releases) ·
 [🔒 Kebijakan Privasi](https://dailyrahmat.ftn.host/privacy)
 
