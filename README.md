@@ -131,6 +131,10 @@ Daily Rahmat adalah aplikasi **hibrida**: cangkang Android native yang menampilk
 
 Semoga aplikasi ini bermanfaat dan menjadi amal jariyah bagi kita semua. Jika ada kekurangan, mohon doa dan masukannya.
 
+<a href="https://play.google.com/store/apps/details?id=daily.rahmat.app" target="_blank">
+  <img src="https://dailyrahmat0.wordpress.com/wp-content/uploads/2026/11/getitongoogleplay_badge_web_color_indonesian.png" height="34px" />
+</a>
+
 <div align="center">
 
 **بارك الله فيكم**
